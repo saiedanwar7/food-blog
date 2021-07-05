@@ -16,7 +16,7 @@ body{
 #top-title{
     padding-top: 15%;
 }
-h1{
+.top-container h1{
     font-size: 60px;
     color:#727272;
     padding-top: 10px;
