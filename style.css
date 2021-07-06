@@ -143,21 +143,7 @@ body{
    
 }
 
-.footer{
-    background-color: #2c2a2a;
-    text-align: center;
-    margin-bottom: 2px;
-    padding-bottom: 50px;
-    padding-top: 17px;
-}
 
-.footer h1{
-    color: gray;
-}
-
-.footer h3{
-    color: rgb(211, 175, 175);
-}
 
 
 .customer-review{
@@ -191,5 +177,18 @@ body{
     width:100%;
 }
 
+.footer{
+    background-color: #2c2a2a;
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 17px;
+}
 
+.footer h1{
+    color: gray;
+}
+
+.footer h3{
+    color: rgb(211, 175, 175);
+}
 
